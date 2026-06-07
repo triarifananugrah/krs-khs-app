@@ -1,6 +1,6 @@
 ```markdown
 # Sistem Informasi KRS & KHS Mahasiswa
-### Projek Pemrograman Framework 2 — Universitas Muhammadiyah Palu
+### Projek Pemrograman Basis Data 2 — Universitas Muhammadiyah Palu
 **Dosen Pengampu:** Nursalim, S.Kom., M.Kom.
 
 Aplikasi manajemen akademik kampus sederhana berbasis Python + MySQL menggunakan arsitektur **Model-View-Controller (MVC)** yang dilengkapi dengan fitur ekspor dokumen otomatis ke dalam format PDF.
