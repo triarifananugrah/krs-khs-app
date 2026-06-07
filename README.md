@@ -12,9 +12,6 @@ Pastikan MySQL / XAMPP / Laragon sudah berjalan, lalu import database:
 
 ```bash
 mysql -u root -p < database/dbakademik.sql
-```
-
-Atau buka **phpMyAdmin** → Import → pilih file `database/dbakademik.sql`
 
 ---
 
@@ -26,7 +23,7 @@ Edit file `config/db_config.py`:
 DB_CONFIG = {
     "host": "localhost",
     "user": "root",
-    "password": "",       # isi jika ada password
+    "password": "",      
     "database": "dbakademik"
 }
 ```
@@ -91,4 +88,4 @@ krs_khs_app/
 | 50 – 64  | D | 1.00 |
 | 0  – 49  | E | 0.00 |
 
-**IP Semester = Total Mutu / Total SKS**
+IP Semester = Total Mutu / Total SKS
